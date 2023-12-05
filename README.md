@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-This repository contains a Spark-based credit risk analysis project. The dataset used in this project is obtained from Kaggle.
+This repository contains a Spark-based credit risk analysis project. The dataset used in this project is obtained from [Kaggle](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset/data).
 
 ## Project Description
 The objective of this project is to build a machine learning model using Apache Spark to predict whether a client will default or not, which is a common problem in credit risk analysis.
